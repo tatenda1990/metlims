@@ -1,0 +1,8 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\collins\\AppData\\Local\\conda\\conda\\envs\\metlims_conda_env\\python.exe",
+  "terminal.integrated.env.windows": {
+    "CONDA_DEFAULT_ENV": "metlims_conda_env",
+    "CONDA_PREFIX": "C:\\Users\\collins\\AppData\\Local\\conda\\conda\\envs\\metlims_conda_env",
+    "PATH": "C:\\Users\\collins\\AppData\\Local\\conda\\conda\\envs\\metlims_conda_env;${env:PATH}"
+  }
+}
